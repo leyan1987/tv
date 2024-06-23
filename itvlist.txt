@@ -1,7 +1,7 @@
 央视频道,#genre#
-CCTV7,http://112.234.21.220:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV13,http://112.234.21.220:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV14,http://112.234.21.220:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV17,http://112.234.21.220:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV精品,http://112.234.21.220:9901/tsfile/live/1028_1.m3u8?key=txiptv&playlive=1&authid=0
 卫视频道,#genre#
 东南卫视,http://112.234.21.220:9901/tsfile/live/0137_1.m3u8?key=txiptv&playlive=1&authid=0
